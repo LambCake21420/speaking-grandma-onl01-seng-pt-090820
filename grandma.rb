@@ -12,16 +12,6 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandma(phrase)
-  if phrase != phrase.upcase
-    print "HUH?! SPEAK UP, SONNY!"
-    elsif phrase == "I LOVE YOU GRANDMA!"
-    print "I LOVE YOU TOO PUMPKIN!"
-    
-  else
-    print "HUH?! SPEAK UP, SONNY!"
-  end
-end
 
 
 
