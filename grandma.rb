@@ -13,9 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  if 
-    elsif phrase == "I LOVE YOU GRANDMA!"
+  if phrase == "I LOVE YOU GRANDMA!"
     print "I LOVE YOU TOO PUMPKIN!"
+    elsif
+    
   else
     print "HUH?! SPEAK UP, SONNY!"
   end
